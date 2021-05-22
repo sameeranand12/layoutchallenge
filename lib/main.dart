@@ -14,7 +14,7 @@ void main() {
                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                //
 
-               //crossAxisAlignment: CrossAxisAlignment.center,
+               //crossAxisAlignment: CrossAxisAlignment.center, checking
                children: [
                  Container(height: 600.0, width: 100.0, color: Colors.yellow,),
                  Row(
